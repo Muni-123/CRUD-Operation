@@ -1,0 +1,16 @@
+{
+  "content": [
+    {
+      "name": "Bonny",
+      "salary": "300000",
+      "company": "Concentrix",
+      "id": 1
+    },
+    {
+      "name": "Navneeth",
+      "salary": "30000000",
+      "company": "Google",
+      "id": 2
+    }
+  ]
+}
